@@ -43,7 +43,7 @@ git clone https://github.com/devlucas745/A3-estrutura-de-dados.git
 cd A3-estrutura-de-dados
 
 # Execute o programa
-python biblioteca.py
+ biblioteca.py
 A3-estrutura-de-dados/
 │
 ├── biblioteca.py       # Código principal do projeto
